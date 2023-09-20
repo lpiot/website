@@ -1,4 +1,4 @@
-image: gitpod/workspace-go
+image: gitpod/workspace-python
 
 tasks:
   - name: Init
