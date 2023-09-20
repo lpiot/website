@@ -1,4 +1,4 @@
-image: wilda/gitpod-jekyll
+image: gitpod/workspace-go
 
 tasks:
   - name: Init
